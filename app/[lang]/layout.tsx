@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { isLocale, copy } from "@/lib/content";
+import "../reference.css";
 import "../globals.css";
+import "../agency-content.css";
 
 export const dynamicParams = false;
 export function generateStaticParams() {

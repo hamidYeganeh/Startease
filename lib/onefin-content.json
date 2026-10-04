@@ -1,0 +1,942 @@
+{
+  "Navigation": {
+    "Home": {
+      "en": "Home",
+      "fa": "خانه"
+    },
+    "About": {
+      "en": "About",
+      "fa": "دربارهٔ ما"
+    },
+    "Feature": {
+      "en": "Services",
+      "fa": "خدمات"
+    },
+    "Pricing": {
+      "en": "Work with us",
+      "fa": "همکاری"
+    },
+    "Blog": {
+      "en": "Our work",
+      "fa": "نمونه‌کارها"
+    },
+    "Careers": {
+      "en": "Our team",
+      "fa": "تیم ما"
+    },
+    "Contact us": {
+      "en": "Let’s talk",
+      "fa": "شروع گفتگو"
+    }
+  },
+  "Hero": {
+    "Smarter Finance": {
+      "en": "SaaS Products",
+      "fa": "محصول SaaS"
+    },
+    "Made Simple": {
+      "en": "Made Simple",
+      "fa": "از ایده تا اجرا"
+    },
+    "A complete platform for managing spend, payments, investments, and forecasting—all in one place.": {
+      "en": "Startease designs and builds SaaS products, web apps, and websites. From your first idea to a product ready for its users.",
+      "fa": "در استارت‌ایز، محصول SaaS، وب‌اپ و وب‌سایت می‌سازیم؛ از اولین ایده تا محصولی که به دست کاربر می‌رسد."
+    },
+    "Get started": {
+      "en": "Our work",
+      "fa": "نمونه‌کارها"
+    },
+    "Download now": {
+      "en": "Let’s talk",
+      "fa": "شروع همکاری"
+    }
+  },
+  "Benefits": {
+    "01": {
+      "en": "01",
+      "fa": "۰۱"
+    },
+    "benefits": {
+      "en": "our approach",
+      "fa": "نگاه ما"
+    },
+    "Financial Control, Simplified.": {
+      "en": "Good Ideas. Thoughtfully Built.",
+      "fa": "ایدهٔ خوب، اجرای دقیق."
+    },
+    "Our platform unites spending, saving, investing, and forecasting — giving you the clarity, control, and confidence to make smarter financial decisions every day.": {
+      "en": "Design and development belong in the same conversation. We help you shape the idea, build the useful parts, and get the details ready for launch.",
+      "fa": "طراحی و توسعه را کنار هم پیش می‌بریم؛ ایده را روشن می‌کنیم، نسخهٔ کاربردی را می‌سازیم و جزئیات را برای انتشار آماده می‌کنیم."
+    },
+    "Simplify your spend": {
+      "en": "Start with a clear idea",
+      "fa": "شروع با یک ایدهٔ روشن"
+    },
+    "Get smart financial action": {
+      "en": "Design around your users",
+      "fa": "طراحی برای کاربر"
+    },
+    "$1,802.00": {
+      "en": "UX + UI",
+      "fa": "UX + UI"
+    },
+    "+ 24%": {
+      "en": "Together",
+      "fa": "کنار هم"
+    },
+    "Growth your wealth": {
+      "en": "Build for what’s next",
+      "fa": "آماده برای قدم بعد"
+    },
+    "Secureevery step": {
+      "en": "Care in every detail",
+      "fa": "دقت در جزئیات"
+    }
+  },
+  "About": {
+    "From": {
+      "en": "From",
+      "fa": "From"
+    },
+    "seamless": {
+      "en": "seamless",
+      "fa": "seamless"
+    },
+    "Spending": {
+      "en": "Spending",
+      "fa": "Spending"
+    },
+    "to": {
+      "en": "to",
+      "fa": "to"
+    },
+    "confident": {
+      "en": "confident",
+      "fa": "confident"
+    },
+    "Growth": {
+      "en": "Growth",
+      "fa": "Growth"
+    },
+    "our": {
+      "en": "our",
+      "fa": "our"
+    },
+    "platform": {
+      "en": "platform",
+      "fa": "platform"
+    },
+    "unites": {
+      "en": "unites",
+      "fa": "unites"
+    },
+    "every": {
+      "en": "every",
+      "fa": "every"
+    },
+    "tool": {
+      "en": "tool",
+      "fa": "tool"
+    },
+    "you": {
+      "en": "you",
+      "fa": "you"
+    },
+    "need": {
+      "en": "need",
+      "fa": "need"
+    },
+    "take": {
+      "en": "take",
+      "fa": "take"
+    },
+    "charge": {
+      "en": "charge",
+      "fa": "charge"
+    },
+    "of": {
+      "en": "of",
+      "fa": "of"
+    },
+    "your": {
+      "en": "your",
+      "fa": "your"
+    },
+    "Financial Future": {
+      "en": "Financial Future",
+      "fa": "Financial Future"
+    },
+    "— all": {
+      "en": "— all",
+      "fa": "— all"
+    },
+    "in": {
+      "en": "in",
+      "fa": "in"
+    },
+    "one": {
+      "en": "one",
+      "fa": "one"
+    },
+    "intuitive,": {
+      "en": "intuitive,",
+      "fa": "intuitive,"
+    },
+    "secure": {
+      "en": "secure",
+      "fa": "secure"
+    },
+    "space.": {
+      "en": "space.",
+      "fa": "space."
+    }
+  },
+  "Statistics": {
+    "Proven Performance. Trusted by Finance Leaders.": {
+      "en": "One Team. From Idea to Launch.",
+      "fa": "یک تیم؛ از ایده تا انتشار."
+    },
+    "01": {
+      "en": "01",
+      "fa": "۰۱"
+    },
+    "$10B+": {
+      "en": "Design",
+      "fa": "طراحی"
+    },
+    "Transactions Managed": {
+      "en": "Shape the experience",
+      "fa": "شکل‌دادن به تجربه"
+    },
+    "Across business and personal accounts, handled securely with enterprise-grade infrastructure.": {
+      "en": "User journeys, prototypes, and an interface that makes the next step clear.",
+      "fa": "مسیر کاربر، نمونهٔ اولیه و رابطی که قدم بعدی را روشن می‌کند."
+    },
+    "02": {
+      "en": "02",
+      "fa": "۰۲"
+    },
+    "2M+": {
+      "en": "Build",
+      "fa": "توسعه"
+    },
+    "Individual Users": {
+      "en": "Make it work",
+      "fa": "ساختن محصول"
+    },
+    "Managing their money, goals, and investments with clarity and control.": {
+      "en": "Websites and web apps built around the people who use them.",
+      "fa": "وب‌سایت و وب‌اپ، متناسب با نیاز آدم‌هایی که از آن استفاده می‌کنند."
+    },
+    "03": {
+      "en": "03",
+      "fa": "۰۳"
+    },
+    "50K+": {
+      "en": "Launch",
+      "fa": "انتشار"
+    },
+    "Active Businesses": {
+      "en": "Put it in people’s hands",
+      "fa": "رسیدن به دست کاربر"
+    },
+    "From startups to global enterprises, optimizing spend and scaling confidently.": {
+      "en": "Test the details, prepare the handover, and plan the next stage together.",
+      "fa": "بررسی جزئیات، تحویل محصول و برنامه‌ریزی برای مرحلهٔ بعد."
+    }
+  },
+  "Features": {
+    "02": {
+      "en": "02",
+      "fa": "۰۲"
+    },
+    "key features": {
+      "en": "our services",
+      "fa": "خدمات ما"
+    },
+    "Everything Finance. Unified.": {
+      "en": "Design. Build. Keep Improving.",
+      "fa": "طراحی، توسعه، بهتر شدن."
+    },
+    "Experience the power of unified money management — smarter spend, stronger growth, and better decisions in one platform.": {
+      "en": "A clear first version or the next chapter of an existing product. We bring the design and development skills your project needs.",
+      "fa": "نسخهٔ اول یک ایده یا فصل بعدی محصول فعلی؛ برای هر مرحله، طراحی و توسعه را کنار هم می‌آوریم."
+    },
+    "Spend Management": {
+      "en": "Product Design",
+      "fa": "طراحی محصول"
+    },
+    "Track your spending effortlessly.": {
+      "en": "Give your idea a clear shape.",
+      "fa": "به ایده‌تان شکل بدهید."
+    },
+    "Gain total visibility into where your money goes, and make smarter choices with every transaction.": {
+      "en": "We turn your product’s goals into user journeys, prototypes, and interfaces you can test before building.",
+      "fa": "هدف‌های محصول را به مسیر کاربر، نمونهٔ اولیه و رابطی تبدیل می‌کنیم که پیش از توسعه قابل بررسی باشد."
+    },
+    "1": {
+      "en": "1",
+      "fa": "۱"
+    },
+    "Unified Wallet View": {
+      "en": "Discovery & scope",
+      "fa": "شناخت و تعیین محدوده"
+    },
+    "See all your cards, accounts, and transactions in one place.": {
+      "en": "Define your users, the problem, and the first useful version.",
+      "fa": "کاربر، مسئله و اولین نسخهٔ کاربردی را مشخص می‌کنیم."
+    },
+    "2": {
+      "en": "2",
+      "fa": "۲"
+    },
+    "Smart Categorization": {
+      "en": "User journeys",
+      "fa": "مسیر کاربر"
+    },
+    "Automatically organize expenses by type and priority.": {
+      "en": "Make the path from first visit to completed task feel natural.",
+      "fa": "از اولین بازدید تا انجام کار، مسیر را روشن می‌کنیم."
+    },
+    "3": {
+      "en": "3",
+      "fa": "۳"
+    },
+    "Real-Time Insights": {
+      "en": "Interface design",
+      "fa": "طراحی رابط"
+    },
+    "Get notifications and summaries of your spending habits.": {
+      "en": "Build a visual language that feels consistent across screens.",
+      "fa": "زبانی تصویری می‌سازیم که در همهٔ صفحه‌ها یکدست باشد."
+    },
+    "4": {
+      "en": "4",
+      "fa": "۴"
+    },
+    "Custom Alerts": {
+      "en": "Working prototypes",
+      "fa": "نمونهٔ تعاملی"
+    },
+    "Set spending limits and get notified before you overspend.": {
+      "en": "Explore the experience and refine it with real feedback.",
+      "fa": "تجربه را امتحان می‌کنیم و با بازخورد بهترش می‌کنیم."
+    },
+    "Digital Payments": {
+      "en": "SaaS Development",
+      "fa": "توسعهٔ SaaS"
+    },
+    "Pay and get paid.Quickly, safely, globally.": {
+      "en": "From a first version to a working product.",
+      "fa": "از نسخهٔ اولیه تا محصول کاربردی."
+    },
+    "Make every transaction smooth and secure, whether it’s paying bills, splitting a dinner tab, or sending money abroad.": {
+      "en": "Web apps, dashboards, and connected workflows, developed in stages with room for feedback.",
+      "fa": "وب‌اپ، داشبورد و فرایندهای متصل؛ توسعهٔ مرحله‌ای با فرصت بررسی و بازخورد در طول مسیر."
+    },
+    "Integrated Checkout Gateways": {
+      "en": "MVP Development",
+      "fa": "توسعهٔ نسخهٔ اولیه"
+    },
+    "Accept and process payments effortlessly across platforms.": {
+      "en": "Start with the features that matter most to your users.",
+      "fa": "از قابلیت‌هایی شروع می‌کنیم که برای کاربر بیشترین اهمیت را دارند."
+    },
+    "Investing Tools": {
+      "en": "Websites & Growth",
+      "fa": "وب‌سایت و بهبود محصول"
+    },
+    "Grow your wealth with confidence.": {
+      "en": "Give your business a home of its own.",
+      "fa": "جایی برای معرفی کسب‌وکارتان."
+    },
+    "From first-time investors to seasoned savers, get personalized tools that make growing your money simple and smart.": {
+      "en": "Clear content, considered interactions, and a responsive experience that works in Persian and English.",
+      "fa": "محتوای روشن، تعامل‌های حساب‌شده و تجربه‌ای واکنش‌گرا به فارسی و انگلیسی."
+    },
+    "Performance Tracking": {
+      "en": "Marketing Websites",
+      "fa": "وب‌سایت کسب‌وکار"
+    },
+    "Get a real-time overview of your portfolio performance, asset diversification, and overall risk exposure.": {
+      "en": "Introduce your business, show your work, and make the next step clear.",
+      "fa": "کسب‌وکارتان را معرفی کنید، کارها را نشان بدهید و راه ارتباط را روشن کنید."
+    },
+    "AI-Driven Forecasting": {
+      "en": "Bilingual Experiences",
+      "fa": "تجربهٔ دوزبانه"
+    },
+    "Predict future cash flow, spending behavior, and financial trends with intelligent AI-powered projections.": {
+      "en": "Persian and English copy, typography, and layouts considered from the beginning.",
+      "fa": "متن، فونت و چیدمان فارسی و انگلیسی را از ابتدا در نظر می‌گیریم."
+    },
+    "Automated Rebalancing": {
+      "en": "Product Improvements",
+      "fa": "بهبود محصول"
+    },
+    "Keep your portfolio optimized automatically with intelligent asset rebalancing.": {
+      "en": "Refine existing screens and workflows as your product and your users’ needs evolve.",
+      "fa": "با تغییر نیاز کاربران، صفحه‌ها و فرایندهای محصول را بهتر می‌کنیم."
+    }
+  },
+  "Integrations": {
+    "03": {
+      "en": "03",
+      "fa": "۰۳"
+    },
+    "integrations": {
+      "en": "connected products",
+      "fa": "محصول یکپارچه"
+    },
+    "Seamless Integrations for a Seamless Financial Life.": {
+      "en": "Bring Every Part of Your Product Together.",
+      "fa": "بخش‌های محصول، کنار هم."
+    },
+    "Connect your favorite banks, wallets, and finance tools in seconds. Spend less time managing accounts and more time making confident financial moves — all powered by seamless, secure automation.": {
+      "en": "From the interface to the services behind it, we connect the pieces your product needs: content, accounts, payments, and workflows. The choices follow your project’s scope.",
+      "fa": "از رابط کاربری تا سرویس‌های پشت آن، اجزای موردنیاز محصول را متصل می‌کنیم: محتوا، حساب‌ها، پرداخت و گردش کار؛ متناسب با محدودهٔ پروژهٔ شما."
+    }
+  },
+  "Testimonials": {
+    "The automated budgeting and forecast tools are brilliant. I used to manually update spreadsheets — now it’s all done instantly. It’s like having a personal finance assistant who never sleeps.": {
+      "en": "Good products start with understanding the people who will use them. We turn that understanding into clear journeys, useful prototypes, and considered interfaces.",
+      "fa": "محصول خوب با شناخت آدم‌هایی شروع می‌شود که از آن استفاده می‌کنند. این شناخت را به مسیر روشن، نمونهٔ کاربردی و رابط دقیق تبدیل می‌کنیم."
+    },
+    "Jaron Smith": {
+      "en": "Product design",
+      "fa": "طراحی محصول"
+    },
+    "Digital Marketer": {
+      "en": "Experience & interface",
+      "fa": "تجربه و رابط کاربری"
+    },
+    "The budgeting insights helped me save for my first trip abroad. I love how the app gives a gentle nudge before I overspend... it’s like having a smart money coach in my pocket.": {
+      "en": "We keep decisions visible and feedback close to the work. You can follow each stage, ask questions, and help shape what comes next.",
+      "fa": "تصمیم‌ها و پیشرفت را با شما به اشتراک می‌گذاریم. در هر مرحله می‌توانید سؤال بپرسید، نظر بدهید و در شکل‌دادن به قدم بعدی همراه باشید."
+    },
+    "Security was my biggest concern before switching. Knowing my data is protected with bank-grade encryption gives me complete peace of mind. Now I check my financial dashboard more often than my email!": {
+      "en": "The experience behind the screen matters too. We connect interfaces, data, and services so the different parts of your product work together.",
+      "fa": "تجربهٔ پشت صفحه هم مهم است. رابط، داده و سرویس‌ها را به هم وصل می‌کنیم تا بخش‌های محصول در کنار هم کار کنند."
+    },
+    "Maya Chen": {
+      "en": "Development",
+      "fa": "توسعهٔ محصول"
+    },
+    "Financial Analyst": {
+      "en": "Product engineering",
+      "fa": "مهندسی و اجرا"
+    },
+    "I used to juggle three different apps for budgeting, payments, and investing. Now I do everything in one place, and actually understand where my money comes and goes. Love it!": {
+      "en": "We work through the details before launch: responsive screens, clear content, and the everyday paths your users will take.",
+      "fa": "پیش از انتشار، جزئیات را بررسی می‌کنیم؛ صفحه‌های واکنش‌گرا، محتوای روشن و مسیرهایی که کاربر هر روز طی می‌کند."
+    },
+    "Eliza Stone": {
+      "en": "Delivery",
+      "fa": "تحویل محصول"
+    },
+    "Freelancer": {
+      "en": "Testing & handover",
+      "fa": "تست و انتشار"
+    },
+    "It’s not just a finance app — it’s a mindset shift. I’ve paid off two credit cards and started saving consistently for the first time in years. Truly life-changing.": {
+      "en": "A launch is a starting point. We agree on the handover and the support your product needs for its next stage.",
+      "fa": "انتشار، شروع یک مرحلهٔ تازه است. دربارهٔ تحویل و پشتیبانی موردنیاز محصول برای قدم بعدی با هم توافق می‌کنیم."
+    },
+    "04": {
+      "en": "04",
+      "fa": "۰۴"
+    },
+    "testimonials": {
+      "en": "our team",
+      "fa": "تیم ما"
+    },
+    "Trusted by Professionals, Loved by Everyone.": {
+      "en": "The People Behind Your Product.",
+      "fa": "آدم‌های پشت محصول شما."
+    },
+    "See how users from every background simplify their finances and take control of their money with our all-in-one app.": {
+      "en": "Design and development in one team, with direct conversations and a shared view of the work. Team portraits and introductions will follow.",
+      "fa": "طراحی و توسعه در یک تیم، با گفتگوی مستقیم و نگاه مشترک به کار. عکس و معرفی اعضا به‌زودی اینجا قرار می‌گیرد."
+    },
+    "4.9 /5": {
+      "en": "Design",
+      "fa": "طراحی"
+    },
+    "(200+ Reviews)": {
+      "en": "Thoughtful experiences",
+      "fa": "تجربهٔ فکرشده"
+    },
+    "4.98 /5": {
+      "en": "Build",
+      "fa": "توسعه"
+    },
+    "(500+ Reviews)": {
+      "en": "Careful implementation",
+      "fa": "اجرای دقیق"
+    }
+  },
+  "Pricing": {
+    "05": {
+      "en": "05",
+      "fa": "۰۵"
+    },
+    "pricing": {
+      "en": "ways to work",
+      "fa": "مدل همکاری"
+    },
+    "Simple Plans forSmarter Finances.": {
+      "en": "The Right Start for Your Project.",
+      "fa": "شروع مناسب پروژهٔ شما."
+    },
+    "See how users from every background simplify their finances and take control of their money with our all-in-one app.": {
+      "en": "Choose the kind of help you need. We agree on scope, deliverables, and an estimate before the work begins.",
+      "fa": "نوع همراهی را انتخاب کنید. پیش از شروع، محدوده، خروجی‌ها و برآورد را با هم مشخص می‌کنیم."
+    },
+    "MONTHLY": {
+      "en": "PROJECT",
+      "fa": "پروژه‌ای"
+    },
+    "ANNUALLY (Save 10%) 🎉": {
+      "en": "ONGOING PARTNERSHIP",
+      "fa": "همراهی مستمر"
+    },
+    "Free": {
+      "en": "Design",
+      "fa": "طراحی"
+    },
+    "Start Smart": {
+      "en": "Shape the idea",
+      "fa": "شکل‌دادن به ایده"
+    },
+    "$0": {
+      "en": "Scope",
+      "fa": "شناخت"
+    },
+    "/Month": {
+      "en": "/ first",
+      "fa": "/ ابتدا"
+    },
+    "Getting started with smarter budgeting and daily spend tracking.": {
+      "en": "For ideas that need a clear direction and an experience you can test.",
+      "fa": "برای ایده‌هایی که به مسیر روشن و تجربه‌ای قابل بررسی نیاز دارند."
+    },
+    "What’s included:": {
+      "en": "What we can cover:",
+      "fa": "موضوع‌های همکاری:"
+    },
+    "Connect up to 2 bank accounts": {
+      "en": "Product discovery & scope",
+      "fa": "شناخت محصول و تعیین محدوده"
+    },
+    "Real-time spend tracking & smart categorization": {
+      "en": "User journeys & interface design",
+      "fa": "مسیر کاربر و طراحی رابط"
+    },
+    "Monthly spending summary reports": {
+      "en": "Interactive prototypes",
+      "fa": "نمونهٔ اولیهٔ تعاملی"
+    },
+    "Bill reminders & payment alerts": {
+      "en": "A consistent visual language",
+      "fa": "زبان تصویری یکدست"
+    },
+    "Basic security monitoring": {
+      "en": "Developer-ready handover",
+      "fa": "تحویل آمادهٔ توسعه"
+    },
+    "Get started": {
+      "en": "Let’s discuss",
+      "fa": "شروع گفتگو"
+    },
+    "Plus": {
+      "en": "Build",
+      "fa": "ساخت"
+    },
+    "Most Popular": {
+      "en": "From idea to launch",
+      "fa": "از ایده تا انتشار"
+    },
+    "$7.99": {
+      "en": "Build",
+      "fa": "اجرا"
+    },
+    "Individuals who want deeper financial insights and automation.": {
+      "en": "For a first release or a focused development phase of your product.",
+      "fa": "برای نسخهٔ اول یا یک مرحلهٔ مشخص از توسعهٔ محصول."
+    },
+    "Everything in Free, plus:": {
+      "en": "A focused product build:",
+      "fa": "ساخت یک نسخهٔ مشخص:"
+    },
+    "Connect unlimited accounts & wallets": {
+      "en": "A defined first release",
+      "fa": "تعیین قابلیت‌های نسخهٔ اول"
+    },
+    "AI-powered budgeting & savings": {
+      "en": "Responsive web development",
+      "fa": "توسعهٔ وب واکنش‌گرا"
+    },
+    "Personalized spend insights & forecasts": {
+      "en": "Accounts & connected workflows",
+      "fa": "حساب کاربری و فرایندهای متصل"
+    },
+    "Auto bill pay & transfer scheduling": {
+      "en": "Testing across key user journeys",
+      "fa": "تست مسیرهای اصلی کاربر"
+    },
+    "Priority customer support": {
+      "en": "Launch preparation & handover",
+      "fa": "آماده‌سازی انتشار و تحویل"
+    },
+    "Upgrade to Plus": {
+      "en": "Discuss your MVP",
+      "fa": "گفتگو دربارهٔ نسخهٔ اول"
+    },
+    "Premium": {
+      "en": "Evolve",
+      "fa": "بهبود"
+    },
+    "Growth": {
+      "en": "Keep improving",
+      "fa": "قدم بعدی محصول"
+    },
+    "$14.99": {
+      "en": "Grow",
+      "fa": "رشد"
+    },
+    "Power users and investors ready to optimize their full financial life.": {
+      "en": "For existing products that need a thoughtful next step.",
+      "fa": "برای محصول فعلی که آمادهٔ یک تغییر حساب‌شده است."
+    },
+    "Everything in Plus, with extra:": {
+      "en": "Plan the next stage:",
+      "fa": "برنامهٔ مرحلهٔ بعد:"
+    },
+    "Integrated investment dashboard": {
+      "en": "Review the current experience",
+      "fa": "بررسی تجربهٔ فعلی"
+    },
+    "Smart portfolio tracking & goal-based investing": {
+      "en": "Design and build new features",
+      "fa": "طراحی و توسعهٔ قابلیت جدید"
+    },
+    "Advanced financial health analytics": {
+      "en": "Improve existing workflows",
+      "fa": "بهبود فرایندهای موجود"
+    },
+    "Multi-currency support & global payments": {
+      "en": "Persian & English experiences",
+      "fa": "تجربهٔ فارسی و انگلیسی"
+    },
+    "24/7 premium support & fraud alerts": {
+      "en": "Agree on ongoing support",
+      "fa": "توافق بر پشتیبانی ادامه‌دار"
+    },
+    "Go Premium": {
+      "en": "Plan the next step",
+      "fa": "برنامه‌ریزی قدم بعد"
+    }
+  },
+  "Blog": {
+    "06": {
+      "en": "06",
+      "fa": "۰۶"
+    },
+    "blog": {
+      "en": "selected work",
+      "fa": "نمونه‌کارها"
+    },
+    "Grow Your Knowledge.": {
+      "en": "Made with Startease.",
+      "fa": "ساخته‌شده با استارت‌ایز."
+    },
+    "Stay informed, inspired, and in control with expert advice, practical tips, and the latest fintech insights.": {
+      "en": "Explore our work: real websites and product experiences. There’s room here for your next project, too.",
+      "fa": "نگاهی به وب‌سایت‌ها و تجربه‌های واقعی تیم؛ اینجا برای پروژه‌های بعدی هم جا داریم."
+    },
+    "Jan 6, 2026": {
+      "en": "Fitness platform",
+      "fa": "پلتفرم ورزشی"
+    },
+    "The Future of Digital Payments: What It Means for You": {
+      "en": "Gym4me — Find a gym. Follow your progress.",
+      "fa": "Gym4me؛ از کشف باشگاه تا پیگیری تمرین."
+    },
+    "Fintech": {
+      "en": "Web app",
+      "fa": "وب‌اپ"
+    },
+    "Innovation": {
+      "en": "Experience design",
+      "fa": "طراحی تجربه"
+    },
+    "Personal Finance": {
+      "fa": "محصول دیجیتال",
+      "en": "Digital product"
+    },
+    "Investing for Beginners: A Step-by-Step Guide": {
+      "en": "Take Me to Iran — A personal way to shop.",
+      "fa": "Take Me to Iran؛ تجربهٔ خرید اختصاصی."
+    },
+    "Jan 19, 2026": {
+      "en": "Pre-launch website",
+      "fa": "سایت پیش‌ثبت‌نام"
+    },
+    "Read More": {
+      "en": "Visit website",
+      "fa": "مشاهدهٔ وب‌سایت"
+    },
+    "Jan 4, 2026": {
+      "en": "Workout experience",
+      "fa": "تجربهٔ تمرین"
+    },
+    "How AI Is Changing Personal Finance": {
+      "en": "Gym4me — Booking, training, and progress.",
+      "fa": "Gym4me؛ رزرو، تمرین و پیگیری پیشرفت."
+    },
+    "Jan 5, 2026": {
+      "en": "Your next project",
+      "fa": "پروژهٔ بعدی شما"
+    },
+    "How to Create a Budget That Actually Works": {
+      "en": "Your idea could be our next collaboration.",
+      "fa": "ایدهٔ شما می‌تواند همکاری بعدی ما باشد."
+    },
+    "Budgeting": {
+      "en": "Let’s build it",
+      "fa": "با هم می‌سازیم"
+    },
+    "View all Articles": {
+      "en": "Discuss your project",
+      "fa": "دربارهٔ پروژه‌ات بگو"
+    }
+  },
+  "Faqs": {
+    "07": {
+      "en": "07",
+      "fa": "۰۷"
+    },
+    "FAQs": {
+      "en": "FAQs",
+      "fa": "پرسش‌های متداول"
+    },
+    "Got questions?We’ve got clear answers.": {
+      "en": "A Few Questions Before We Start.",
+      "fa": "چند سؤال پیش از شروع."
+    },
+    "1": {
+      "en": "1",
+      "fa": "۱"
+    },
+    "Is my financial data secure?": {
+      "en": "Can we start with just an idea?",
+      "fa": "اگر فقط یک ایده داشته باشم، می‌توانیم شروع کنیم؟"
+    },
+    "Your security is our top priority. All financial data is protected with bank-level encryption, secure API connections, and advanced authentication protocols. We never store your banking credentials, and your information is always kept private.": {
+      "en": "Yes. Tell us what you want to build and who it is for. We can help define the scope and decide what belongs in a useful first version.",
+      "fa": "بله. بگویید چه می‌خواهید بسازید و برای چه کسی. کمک می‌کنیم محدوده روشن شود و تصمیم بگیریم نسخهٔ اول به چه چیزهایی نیاز دارد."
+    },
+    "2": {
+      "en": "2",
+      "fa": "۲"
+    },
+    "How do I connect my bank accounts or cards?": {
+      "en": "Can you work on our existing product?",
+      "fa": "روی محصول فعلی ما هم کار می‌کنید؟"
+    },
+    "It’s easy — simply click “Connect Account” from your dashboard, choose your bank or card provider, and securely sign in. OneFin supports thousands of banks and financial institutions worldwide through trusted API integrations.": {
+      "en": "Yes. We can review the current experience and code, then agree on a focused redesign, a new feature, or a development phase.",
+      "fa": "بله. تجربه و کد فعلی را بررسی می‌کنیم و برای بازطراحی، قابلیت جدید یا یک مرحلهٔ مشخص از توسعه توافق می‌کنیم."
+    },
+    "3": {
+      "en": "3",
+      "fa": "۳"
+    },
+    "Does it cost anything to use the app?": {
+      "en": "How do you estimate cost and timing?",
+      "fa": "هزینه و زمان چطور مشخص می‌شود؟"
+    },
+    "OneFin offers a free plan with essential financial tracking features to help you get started. For advanced analytics, automation tools, and premium insights, you can upgrade to one of our flexible paid plans anytime.": {
+      "en": "After discussing the scope, we outline the deliverables, milestones, and estimate. Cost and timing depend on the work your project actually needs.",
+      "fa": "پس از بررسی محدوده، خروجی‌ها، مرحله‌ها و برآورد را مشخص می‌کنیم. هزینه و زمان به نیازهای واقعی همان پروژه بستگی دارد."
+    },
+    "4": {
+      "en": "4",
+      "fa": "۴"
+    },
+    "What makes this app different from other finance tools?": {
+      "en": "How do we work together?",
+      "fa": "همکاری چطور پیش می‌رود؟"
+    },
+    "OneFin combines smart automation, real-time financial insights, and a clean user experience in one platform. Instead of just tracking expenses, it helps you understand spending patterns, manage budgets smarter, and make better financial decisions faster.": {
+      "en": "We share progress in stages, discuss decisions, and collect feedback throughout the project. The delivery plan and communication rhythm are agreed before work starts.",
+      "fa": "پیشرفت را مرحله‌به‌مرحله نشان می‌دهیم، تصمیم‌ها را با هم بررسی می‌کنیم و بازخورد می‌گیریم. برنامهٔ تحویل و روش ارتباط پیش از شروع مشخص می‌شود."
+    },
+    "5": {
+      "en": "5",
+      "fa": "۵"
+    },
+    "Can I use the app internationally?": {
+      "en": "Can you build in Persian and English?",
+      "fa": "فارسی و انگلیسی هم پیاده‌سازی می‌کنید؟"
+    },
+    "Yes — OneFin is built for global users. You can connect international bank accounts, manage multiple currencies, and track your finances from anywhere in the world with seamless synchronization across": {
+      "en": "Yes. We consider writing, typography, right-to-left layouts, and responsive behavior from the beginning, so each version feels natural.",
+      "fa": "بله. متن، فونت، راست‌به‌چپ و نمایش در اندازه‌های مختلف را از ابتدا در نظر می‌گیریم تا هر دو نسخه طبیعی باشند."
+    },
+    "Still have more questions?": {
+      "en": "Have another question?",
+      "fa": "سؤال دیگری دارید؟"
+    },
+    "If you have more questions, contact us so we can help.": {
+      "en": "Tell us about your project at hamidyeganeh82@gmail.com.",
+      "fa": "برای گفتگو دربارهٔ پروژه به hamidyeganeh82@gmail.com پیام بدهید."
+    }
+  },
+  "Download": {
+    "Clarity.": {
+      "en": "Imagine.",
+      "fa": "ایده."
+    },
+    "Confidence.": {
+      "en": "Design.",
+      "fa": "طراحی."
+    },
+    "Control.": {
+      "en": "Build.",
+      "fa": "اجرا."
+    },
+    "Download on the": {
+      "en": "Tell us about",
+      "fa": "گفتگو دربارهٔ"
+    },
+    "App Store": {
+      "en": "Your project",
+      "fa": "پروژهٔ شما"
+    },
+    "Get it on": {
+      "en": "Explore our",
+      "fa": "دیدن"
+    },
+    "Google Play": {
+      "en": "Selected work",
+      "fa": "نمونه‌کارها"
+    }
+  },
+  "StoreButtons": {
+    "Download on the": {
+      "en": "Tell us about",
+      "fa": "گفتگو دربارهٔ"
+    },
+    "App Store": {
+      "en": "Your project",
+      "fa": "پروژهٔ شما"
+    },
+    "Get it on": {
+      "en": "Explore our",
+      "fa": "دیدن"
+    },
+    "Google Play": {
+      "en": "Selected work",
+      "fa": "نمونه‌کارها"
+    }
+  },
+  "Footer": {
+    "Main": {
+      "en": "Explore",
+      "fa": "آشنایی با"
+    },
+    "Pages": {
+      "en": "Startease",
+      "fa": "استارت‌ایز"
+    },
+    "Home": {
+      "en": "Home",
+      "fa": "خانه"
+    },
+    "About": {
+      "en": "About",
+      "fa": "دربارهٔ ما"
+    },
+    "Features": {
+      "en": "Services",
+      "fa": "خدمات"
+    },
+    "Pricing": {
+      "en": "Work with us",
+      "fa": "همکاری"
+    },
+    "Blog": {
+      "en": "Our work",
+      "fa": "نمونه‌کارها"
+    },
+    "Blog Post": {
+      "en": "Gym4me",
+      "fa": "Gym4me"
+    },
+    "Careers": {
+      "en": "Our team",
+      "fa": "تیم ما"
+    },
+    "Job Post": {
+      "en": "Team approach",
+      "fa": "نگاه تیم"
+    },
+    "legal &": {
+      "en": "Let’s",
+      "fa": "در"
+    },
+    "Utilities": {
+      "en": "Connect",
+      "fa": "ارتباط باشیم"
+    },
+    "Contact": {
+      "en": "Contact",
+      "fa": "تماس"
+    },
+    "FAQs": {
+      "en": "FAQs",
+      "fa": "سؤالات متداول"
+    },
+    "404 Error": {
+      "en": "English",
+      "fa": "English"
+    },
+    "Changelog": {
+      "en": "فارسی",
+      "fa": "فارسی"
+    },
+    "Terms of Service": {
+      "en": "Take Me to Iran",
+      "fa": "Take Me to Iran"
+    },
+    "Privacy Policy": {
+      "en": "How we work",
+      "fa": "روش همکاری"
+    },
+    "Built in Framer": {
+      "en": "Designed & developed",
+      "fa": "طراحی و توسعه"
+    },
+    "© OneFin 2026. All Rights Reserved.": {
+      "en": "© Startease 2026. All rights reserved.",
+      "fa": "© استارت‌ایز ۲۰۲۶؛ تمام حقوق محفوظ است."
+    },
+    "Created by": {
+      "en": "Made by",
+      "fa": "ساخته‌شده با"
+    },
+    "N!nhStudio": {
+      "en": "Startease",
+      "fa": "Startease"
+    },
+    "Main Pages": {
+      "en": "Explore Startease",
+      "fa": "آشنایی با استارت‌ایز"
+    },
+    "legal & Utilities": {
+      "en": "Let’s connect",
+      "fa": "در ارتباط باشیم"
+    }
+  }
+}
